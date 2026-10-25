@@ -1,8 +1,8 @@
 {
-  "show_banner": true,
+  "show_banner": false,
   "banner_image": "https://raw.githubusercontent.com/Leshavalente-maker/TikTokModHub-Config/main/banner.png",
   "banner_link": "https://t.me/TikTokModHub",
-  "show_emergency": false,
+  "show_emergency": true,
   "emergency_image": "https://raw.githubusercontent.com/Leshavalente-maker/TikTokModHub-Config/main/emergency.png",
   "emergency_link": "https://t.me/TikTokModHub",
   "banner_show_count": 2

@@ -1,5 +1,5 @@
 {
-  "show_banner": true,
+  "show_banner": false,
   "banner_image": "https://raw.githubusercontent.com/leshavalente-maker/TikTokModHub-Config/main/TikTokModHub-1.0.1/banner.png",
   "banner_link": "https://t.me/TikTokModHub",
   "show_emergency": false,
